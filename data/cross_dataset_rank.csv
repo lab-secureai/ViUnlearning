@@ -1,0 +1,8 @@
+dataset,UIT-VSFC,UIT-VSFC,UIT-VSFC,UIT-ViHSD,UIT-ViHSD,Hạng TB
+mode,noisy,random,topic,noisy,random,
+method,,,,,,
+NegGrad+,1.0,1.0,2.0,1.0,1.0,1.2
+SCRUB,4.0,3.0,1.0,3.0,2.0,2.6
+FT,5.0,2.0,3.0,4.0,3.0,3.4
+RL,3.0,5.0,5.0,2.0,4.0,3.8
+GA,2.0,4.0,4.0,5.0,5.0,4.0
